@@ -17,7 +17,7 @@
 </h3>
 
 <h3 align="center">
-<em>Tools for building the ultimate self-hosted application server</em></h3>
+<em>Build Docker Images the Easy Way</em></h3>
 
 <div align="center">
 

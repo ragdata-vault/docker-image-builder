@@ -151,6 +151,9 @@ It's not just contributions of code that I'm looking for.  If you have any ideas
 
 This project incorporates ideas and / or code crafted by the following talented individuals:
 
+- [lbacik/docker_image_builder](https://github.com/lbacik/docker-image-builder)<br />
+	Copyright (C) 2017 Lukasz Bacik <[mail@luka.sh](mail@luka.sh)><br />
+	GPL Licensed
 
 > "We see much further, and reach much higher,<br>only because we stand upon the shoulders of giants"
 

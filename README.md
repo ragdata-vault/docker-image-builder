@@ -43,6 +43,7 @@ If you like this repository, please give it a ⭐ (it really does help)
 
 - [Project Overview](#-project-overview)
 - [Available Support](#-available-support)
+- [Installation](#-installation)
 - [Project Supporters](#-project-supporters)
 - [Author/Maintainer](#-author--maintainer)
 - [Security](#-security)
@@ -55,7 +56,29 @@ If you like this repository, please give it a ⭐ (it really does help)
 
 ## ⭐ [Project Overview](#toc)
 
-This project builds docker images from template files
+This project builds docker images from template files.
+
+Each docker_context passed to the docker_image_builder script builds upon the previous one.
+
+## 📂 [Installation](#toc)
+
+You can install the Docker Image Builder using pip (version for python3 {pip3}).  Try:
+
+```python
+pip3 install docker-image-builder
+```
+
+The package site can be found at [https://pypi.python.org/pypi/docker-image-builder](https://pypi.python.org/pypi/docker-image-builder)
+
+Please check:
+
+```python
+docker-image-builder --help
+```
+
+for available options.
+
+[`^ Top`](#toc)
 
 ## 💪 [Available Support](#toc)
 
